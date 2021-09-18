@@ -3,4 +3,10 @@
 </style>
 <style #2>
     Style 2
+<style #1>
+    Styl 1
 </style>
+<style #3>
+    Styl 3
+</style>
+
