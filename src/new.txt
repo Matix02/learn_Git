@@ -1,6 +1,6 @@
-<style #2>
-    BetterMaine
-<style #3>
 <style #1>
-#Maine 2
+    BetterMaine
+</style>
+<style #2>
+    Style 2
 </style>
